@@ -1,0 +1,16 @@
+PODS:
+  - CubeThreadSwift (0.1.0)
+
+DEPENDENCIES:
+  - CubeThreadSwift (from `../`)
+
+EXTERNAL SOURCES:
+  CubeThreadSwift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CubeThreadSwift: a24d2d8ee77ad8274cd2456d4a87a714ada5af35
+
+PODFILE CHECKSUM: 4152bdcf1fa35ed8cf33d325543bf6667faf9059
+
+COCOAPODS: 1.9.1
